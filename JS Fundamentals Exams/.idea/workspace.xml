@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/Arrays and Matrices/Travel Investigation (10.06.2018)/travel-investigation.js" line="48" mnemonic="9" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="ec4a36a3-f49c-4798-92b0-b4fdba2e3e9f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,21 +14,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Objects and DOM/Extractor (Exam Preparation - January 2019)/solution.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="986">
-              <caret line="39" selection-end-line="72" />
-              <folding>
-                <element signature="n#!!block;n#extract#0;n#!!block;n#solve#0" />
-                <element signature="n#!!block;n#getLastChar#0;n#!!block;n#solve#0" />
-                <element signature="n#!!block;n#removeUnnecessarySymbols#0;n#!!block;n#solve#0" />
-                <element signature="n#!!block;n#replaceHash#0;n#!!block;n#solve#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Objects and DOM/Trucks (Exam Preparation - January 2019)/template.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1496">
@@ -43,7 +25,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Objects and DOM/Trucks (Exam Preparation - January 2019)/solution.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
+            <state relative-caret-position="1122">
               <caret line="91" selection-start-line="91" selection-end-line="91" />
               <folding>
                 <element signature="n#!!block;n#addNewTruck#0;n#!!block;n#solve#0" />
@@ -63,14 +45,68 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Arrays and Matrices/Travel Investigation (10.06.2018)/travel-investigation.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Objects and DOM/Crossword (Exam Preparation - January 2019)/solution.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="408">
+              <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
               <folding>
-                <element signature="n#!!block;n#checkForCompanies#0;n#!!block;n#solve#0" />
                 <element signature="n#!!block;n#f#0;n#!!block;n#solve#0" />
+                <element signature="n#!!block;n#f#0;n#!!block;n#solve#0" />
+                <element signature="n#!!block;n#f#0;n#!!block;n#solve#0" />
+                <element signature="n#!!block;n#get#0;n#!!block;n#solve#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Simple Calculations and Operations/Gladiator Expenses (Exam - 24.04.2018)/gladiator-expenses.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Arrays and Matrices/Gladiator Inventory (Exam - 24.04.2018)/gladiator-inventory.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="64" selection-start-line="64" selection-end-line="64" />
+              <folding>
+                <element signature="n#!!block;n#buy#0;n#!!block;n#solve#0" />
+                <element signature="n#!!block;n#buy#1;n#!!block;n#solve#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Objects and DOM/F1 Championship (Retake Exam - 05.09.2018)/f1-championship.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="438">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Simple Calculations and Operations/Bitcoin Mining (Exam - 11.02.2018)/bitcoin-mining.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Arrays and Matrices/Air Pollution (Exam - 11.02.2018)/air-pollution.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+              <folding>
+                <element signature="e#173#189#0" />
               </folding>
             </state>
           </provider>
@@ -107,6 +143,13 @@
         <option value="$PROJECT_DIR$/Arrays and Matrices/F1 Race/f1-race.js" />
         <option value="$PROJECT_DIR$/Simple Calculations and Operations/Travel Plans (Exam - 10.06.2018)/travel-plans.js" />
         <option value="$PROJECT_DIR$/Arrays and Matrices/Travel Investigation (10.06.2018)/travel-investigation.js" />
+        <option value="$PROJECT_DIR$/Objects and DOM/Crossword (Exam Preparation - January 2019)/crossword.js" />
+        <option value="$PROJECT_DIR$/Objects and DOM/Crossword (Exam Preparation - January 2019)/solution.js" />
+        <option value="$PROJECT_DIR$/Simple Calculations and Operations/Gladiator Expenses (Exam - 24.04.2018)/gladiator-expenses.js" />
+        <option value="$PROJECT_DIR$/Arrays and Matrices/Gladiator Inventory (Exam - 24.04.2018)/gladiator-inventory.js" />
+        <option value="$PROJECT_DIR$/Objects and DOM/F1 Championship (Retake Exam - 05.09.2018)/f1-championship.js" />
+        <option value="$PROJECT_DIR$/Simple Calculations and Operations/bitcoin-mining.js" />
+        <option value="$PROJECT_DIR$/Arrays and Matrices/Air Pollution (Exam - 11.02.2018)/air-pollution.js" />
       </list>
     </option>
   </component>
@@ -139,7 +182,7 @@
               <item name="JS Fundamentals Exams" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Fundamentals Exams" type="462c0819:PsiDirectoryNode" />
               <item name="Arrays and Matrices" type="462c0819:PsiDirectoryNode" />
-              <item name="Travel Investigation (10.06.2018)" type="462c0819:PsiDirectoryNode" />
+              <item name="Air Pollution (Exam - 11.02.2018)" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -160,6 +203,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\JS Core Exams\JS Fundamentals Exams\Simple Calculations and Operations\Bitcoin Mining (Exam - 11.02.2018)" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -172,29 +220,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.travel-investigation.js">
-    <configuration name="auto-service.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="auto-service.js" working-dir="$PROJECT_DIR$/Objects and DOM/Auto Service (Retake exam - 16 April 2019)">
+  <component name="RunManager" selected="Node.js.air-pollution.js">
+    <configuration name="air-pollution.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="air-pollution.js" working-dir="$PROJECT_DIR$/Arrays and Matrices/Air Pollution (Exam - 11.02.2018)">
       <method v="2" />
     </configuration>
-    <configuration name="f1-race.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="f1-race.js" working-dir="$PROJECT_DIR$/Arrays and Matrices/F1 Race">
+    <configuration name="bitcoin-mining.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Simple Calculations and Operations/Bitcoin Mining (Exam - 11.02.2018)/bitcoin-mining.js" working-dir="$PROJECT_DIR$/Simple Calculations and Operations">
       <method v="2" />
     </configuration>
-    <configuration name="kompot.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="kompot.js" working-dir="$PROJECT_DIR$/Simple Calculations and Operations/Kompot">
+    <configuration name="f1-championship.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="f1-championship.js" working-dir="$PROJECT_DIR$/Objects and DOM/F1 Championship (Retake Exam - 05.09.2018)">
       <method v="2" />
     </configuration>
-    <configuration name="travel-investigation.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="travel-investigation.js" working-dir="$PROJECT_DIR$/Arrays and Matrices/Travel Investigation (10.06.2018)">
+    <configuration name="gladiator-expenses.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="gladiator-expenses.js" working-dir="$PROJECT_DIR$/Simple Calculations and Operations/Gladiator Expenses (Exam - 24.04.2018)">
       <method v="2" />
     </configuration>
-    <configuration name="travel-plans.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="travel-plans.js" working-dir="$PROJECT_DIR$/Simple Calculations and Operations/Travel Plans (Exam - 10.06.2018)">
+    <configuration name="gladiator-inventory.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="gladiator-inventory.js" working-dir="$PROJECT_DIR$/Arrays and Matrices/Gladiator Inventory (Exam - 24.04.2018)">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.travel-investigation.js" />
-        <item itemvalue="Node.js.travel-plans.js" />
-        <item itemvalue="Node.js.f1-race.js" />
-        <item itemvalue="Node.js.kompot.js" />
-        <item itemvalue="Node.js.auto-service.js" />
+        <item itemvalue="Node.js.air-pollution.js" />
+        <item itemvalue="Node.js.bitcoin-mining.js" />
+        <item itemvalue="Node.js.f1-championship.js" />
+        <item itemvalue="Node.js.gladiator-inventory.js" />
+        <item itemvalue="Node.js.gladiator-expenses.js" />
       </list>
     </recent_temporary>
   </component>
@@ -211,11 +259,12 @@
       <workItem from="1559818463919" duration="10785000" />
       <workItem from="1559902872020" duration="11908000" />
       <workItem from="1559916764736" duration="6027000" />
+      <workItem from="1559987680821" duration="14228000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28720000" />
+    <option name="totallyTimeSpent" value="42948000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -226,7 +275,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29319954" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39910814" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -247,13 +296,10 @@
     <entry file="file://$PROJECT_DIR$/Simple Calculations and Operations/VAT Calculator/vat-calculator.js" />
     <entry file="file://$PROJECT_DIR$/Arrays and Matrices/Matrix Summer/matrix-summer.js" />
     <entry file="file://$PROJECT_DIR$/Objects and DOM/Extractor (Exam Preparation - January 2019)/extractor.js" />
-    <entry file="file://$PROJECT_DIR$/Arrays and Matrices/Matrix Summer (Retake exam- 16 April 2019)/matrix-summer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays and Matrices/Matrix Summer (Retake exam- 16 April 2019)/matrix-summer.js" />
+    <entry file="file://$PROJECT_DIR$/Objects and DOM/Auto Service (Retake exam - 16 April 2019)/auto-service.js" />
+    <entry file="file://$PROJECT_DIR$/Simple Calculations and Operations/Kompot/kompot.js" />
+    <entry file="file://$PROJECT_DIR$/Arrays and Matrices/F1 Race/f1-race.js" />
     <entry file="file://$PROJECT_DIR$/Objects and DOM/Extractor (Exam Preparation - January 2019)/solution.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="986">
@@ -267,16 +313,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Objects and DOM/Auto Service (Retake exam - 16 April 2019)/auto-service.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1428">
-          <caret line="52" column="22" selection-end-line="62" />
-          <folding>
-            <element signature="n#!!block;n#addPart#0;n#!!block;n#solve#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Objects and DOM/Trucks (Exam Preparation - January 2019)/template.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1496">
@@ -284,36 +320,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Simple Calculations and Operations/Kompot/kompot.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="7" column="28" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Objects and DOM/Extractor (Exam Preparation - January 2019)/template.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays and Matrices/F1 Race/f1-race.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="768">
-          <caret line="53" column="22" lean-forward="true" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
-          <folding>
-            <element signature="n#!!block;n#join#0;n#!!block;n#solve#0" />
-            <element signature="n#!!block;n#overtake#0;n#!!block;n#solve#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Objects and DOM/Trucks (Exam Preparation - January 2019)/solution.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
+        <state relative-caret-position="1122">
           <caret line="91" selection-start-line="91" selection-end-line="91" />
           <folding>
             <element signature="n#!!block;n#addNewTruck#0;n#!!block;n#solve#0" />
             <element signature="n#!!block;n#work#0;n#!!block;n#solve#0" />
             <element signature="n#!!block;n#clickEvent#0;n#!!block;n#solve#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects and DOM/Extractor (Exam Preparation - January 2019)/template.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays and Matrices/Travel Investigation (10.06.2018)/travel-investigation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="n#!!block;n#checkForCompanies#0;n#!!block;n#solve#0" />
+            <element signature="n#!!block;n#f#0;n#!!block;n#solve#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects and DOM/Crossword (Exam Preparation - January 2019)/crossword.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="9" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -324,13 +360,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays and Matrices/Travel Investigation (10.06.2018)/travel-investigation.js">
+    <entry file="file://$PROJECT_DIR$/Objects and DOM/Crossword (Exam Preparation - January 2019)/solution.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="408">
+          <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
           <folding>
-            <element signature="n#!!block;n#checkForCompanies#0;n#!!block;n#solve#0" />
             <element signature="n#!!block;n#f#0;n#!!block;n#solve#0" />
+            <element signature="n#!!block;n#f#0;n#!!block;n#solve#0" />
+            <element signature="n#!!block;n#f#0;n#!!block;n#solve#0" />
+            <element signature="n#!!block;n#get#0;n#!!block;n#solve#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Simple Calculations and Operations/Gladiator Expenses (Exam - 24.04.2018)/gladiator-expenses.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays and Matrices/Gladiator Inventory (Exam - 24.04.2018)/gladiator-inventory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="n#!!block;n#buy#0;n#!!block;n#solve#0" />
+            <element signature="n#!!block;n#buy#1;n#!!block;n#solve#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects and DOM/F1 Championship (Retake Exam - 05.09.2018)/f1-championship.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Simple Calculations and Operations/Bitcoin Mining (Exam - 11.02.2018)/bitcoin-mining.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays and Matrices/Air Pollution (Exam - 11.02.2018)/air-pollution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#173#189#0" />
           </folding>
         </state>
       </provider>
