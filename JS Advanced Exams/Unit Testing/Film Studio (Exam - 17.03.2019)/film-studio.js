@@ -1,5 +1,4 @@
 class FilmStudio {
-
     constructor(studioName) {
         this.name = studioName;
         this.films = [];
@@ -10,9 +9,7 @@ class FilmStudio {
         let output;
 
         if (this.films.length) {
-
             for (let f of this.films) {
-
                 let roles = f.filmRoles.filter((r) => r.role === role);
 
                 if (roles.length) {
@@ -39,9 +36,7 @@ class FilmStudio {
     }
 
     makeMovie(filmName, roles) {
-
         if (arguments.length === 2) {
-
             let firstArgIsString = typeof arguments[0] === 'string';
             let secondArgIsArray = arguments[1] instanceof Array;
 
@@ -53,6 +48,7 @@ class FilmStudio {
                         role: cur,
                         actor: false
                     };
+
                     acc.push(curFilmRole);
                     return acc;
                 }, []);
@@ -68,6 +64,7 @@ class FilmStudio {
 
                 this.films.push(film);
                 return film;
+
             } else {
                 throw ('Invalid arguments')
             }
@@ -78,16 +75,17 @@ class FilmStudio {
     }
 
     lookForProducer(film) {
-
         let f = this.films.filter((f) => f.filmName === film)[0];
         let output;
 
         if (f) {
             output = `Film name: ${f.filmName}\n`;
             output += 'Cast:\n';
+
             Object.keys(f.filmRoles).forEach((role) => {
                 output += `${f.filmRoles[role].actor} as ${f.filmRoles[role].role}\n`;
             });
+
         } else {
             throw new Error(`${film} do not exist yet, but we need the money...`)
         }
@@ -95,3 +93,5 @@ class FilmStudio {
         return output;
     }
 }
+
+module.exports = FilmStudio;
