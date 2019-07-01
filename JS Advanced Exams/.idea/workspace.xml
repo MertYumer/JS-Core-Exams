@@ -14,27 +14,16 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DOM/SoftUni Courses (Exam - 17.03.2019)/scripts/solution.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Classes/Hotel (Exam - 17.03.2019)/hotel.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="79" column="35" selection-start-line="79" selection-start-column="35" selection-end-line="79" selection-end-column="35" />
+            <state relative-caret-position="251">
+              <caret line="113" column="56" selection-start-line="112" selection-start-column="8" selection-end-line="113" selection-end-column="60" />
               <folding>
-                <element signature="n#!!block;n#constructor#0;n#Hotel#0" />
                 <element signature="n#!!block;n#roomsPricing#0;n#Hotel#0" />
                 <element signature="n#!!block;n#servicesPricing#0;n#Hotel#0" />
                 <element signature="n#!!block;n#rentARoom#0;n#Hotel#0" />
                 <element signature="n#!!block;n#roomService#0;n#Hotel#0" />
                 <element signature="n#!!block;n#checkOut#0;n#Hotel#0" />
-                <element signature="n#!!block;n#report#0;n#Hotel#0" />
               </folding>
             </state>
           </provider>
@@ -43,8 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Unit Testing/Film Studio (Exam - 17.03.2019)/film-studio.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="81" column="50" lean-forward="true" selection-start-line="81" selection-start-column="50" selection-end-line="81" selection-end-column="50" />
+            <state relative-caret-position="352">
+              <caret line="81" column="50" selection-start-line="81" selection-start-column="50" selection-end-line="81" selection-end-column="50" />
               <folding>
                 <element signature="n#!!block;n#casting#0;n#FilmStudio#0" />
                 <element signature="n#!!block;n#makeMovie#0;n#FilmStudio#0" />
@@ -53,26 +42,102 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Unit Testing/Film Studio (Exam - 17.03.2019)/film-studio-tests.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1122">
-              <caret line="116" column="3" lean-forward="true" selection-start-line="116" selection-start-column="3" selection-end-line="116" selection-end-column="3" />
+            <state relative-caret-position="242">
+              <caret line="43" column="49" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
               <folding>
-                <element signature="e#331#470#0" />
+                <element signature="e#306#432#0" />
                 <element signature="e#518#642#0" />
                 <element signature="e#749#873#0" />
                 <element signature="e#972#1083#0" />
-                <element signature="e#1186#1666#0" />
                 <element signature="e#1753#2047#0" />
                 <element signature="e#2147#2330#0" />
                 <element signature="e#2442#2733#0" />
                 <element signature="e#2841#3163#0" />
                 <element signature="e#3250#3573#0" />
                 <element signature="e#3679#3841#0" />
-                <element signature="e#3950#4381#0" />
+                <element signature="e#3950#4422#0" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DOM/Coffee Bill (Retake Exam - 18.04.2019)/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1462">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DOM/Coffee Bill (Retake Exam - 18.04.2019)/solution.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classes/Organization (Retake Exam - 18.04.2019)/organization.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="61" selection-start-line="61" selection-end-line="61" />
+              <folding>
+                <element signature="n#!!block;n#constructor#0;n#Organization#0" />
+                <element signature="n#!!block;n#departmentsBudget#0;n#Organization#0" />
+                <element signature="n#!!block;n#add#0;n#Organization#0" />
+                <element signature="n#!!block;n#employeeExists#0;n#Organization#0" />
+                <element signature="n#!!block;n#leaveOrganization#0;n#Organization#0" />
+                <element signature="n#!!block;n#status#0;n#Organization#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Unit Testing/Auto Service (Retake Exam - 18.04.2019)/auto-service.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+              <folding>
+                <element signature="n#!!block;n#availableSpace#0;n#AutoService#0" />
+                <element signature="n#!!block;n#repairCar#0;n#AutoService#0" />
+                <element signature="n#!!block;n#signUpForReview#0;n#AutoService#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Unit Testing/Auto Service (Retake Exam - 18.04.2019)/auto-service-tests.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+              <folding>
+                <element signature="e#316#442#0" />
+                <element signature="e#556#730#0" />
+                <element signature="e#689#750#0" />
+                <element signature="e#1342#1838#0" />
+                <element signature="e#1984#2186#0" />
+                <element signature="e#2292#2494#0" />
+                <element signature="e#2874#3338#0" />
+                <element signature="e#2851#3222#0" />
+                <element signature="e#3111#3319#0" />
+                <element signature="e#3506#3805#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Unit Testing/node_modules/chai/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-408" />
           </provider>
         </entry>
       </file>
@@ -97,10 +162,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/DOM/SoftUni Courses (Exam - 17.03.2019)/scripts/solution.js" />
-        <option value="$PROJECT_DIR$/Classes/Hotel (Exam - 17.03.2019)/hotel.js" />
         <option value="$PROJECT_DIR$/Unit Testing/Film Studio (Exam - 17.03.2019)/filmStudio.js" />
         <option value="$PROJECT_DIR$/Unit Testing/Film Studio (Exam - 17.03.2019)/film-studio.js" />
+        <option value="$PROJECT_DIR$/DOM/Coffee Bill (Retake Exam - 18.04.2019)/solution.js" />
+        <option value="$PROJECT_DIR$/DOM/Coffee Bill (Retake Exam - 18.04.2019)/index.html" />
+        <option value="$PROJECT_DIR$/Classes/Hotel (Exam - 17.03.2019)/hotel.js" />
+        <option value="$PROJECT_DIR$/Classes/Organization (Retake Exam - 18.04.2019)/organization.js" />
         <option value="$PROJECT_DIR$/Unit Testing/Film Studio (Exam - 17.03.2019)/film-studio-tests.js" />
+        <option value="$PROJECT_DIR$/Unit Testing/Auto Service (Retake Exam - 18.04.2019)/auto-service.js" />
+        <option value="$PROJECT_DIR$/Unit Testing/Auto Service (Retake Exam - 18.04.2019)/auto-service-tests.js" />
       </list>
     </option>
   </component>
@@ -133,6 +203,12 @@
               <item name="JS Advanced Exams" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Advanced Exams" type="462c0819:PsiDirectoryNode" />
               <item name="Unit Testing" type="462c0819:PsiDirectoryNode" />
+              <item name="Auto Service (Retake Exam - 18.04.2019)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS Advanced Exams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Advanced Exams" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit Testing" type="462c0819:PsiDirectoryNode" />
               <item name="Film Studio (Exam - 17.03.2019)" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -144,7 +220,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Unit Testing/Film Studio (Exam - 17.03.2019)/film-studio-tests.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Unit Testing/Auto Service (Retake Exam - 18.04.2019)/auto-service-tests.js" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -167,8 +243,42 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.Film Studio Tests">
+  <component name="RunManager" selected="Mocha.Auto Service Tests">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS Advanced Exams/DOM/Coffee Bill (Retake Exam - 18.04.2019)/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="hotel.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="hotel.js" working-dir="$PROJECT_DIR$/Classes/Hotel (Exam - 17.03.2019)">
+      <method v="2" />
+    </configuration>
+    <configuration name="organization.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="organization.js" working-dir="$PROJECT_DIR$/Classes/Organization (Retake Exam - 18.04.2019)">
+      <method v="2" />
+    </configuration>
+    <configuration name="Auto Service Tests" type="mocha-javascript-test-runner">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$USER_HOME$/AppData/Roaming/npm/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/Unit Testing/Auto Service (Retake Exam - 18.04.2019)/auto-service-tests.js</test-file>
+      <method v="2" />
+    </configuration>
+    <configuration name="AutoService Tests.signUpForReview should add current client to workInProgress when there is an available space" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$USER_HOME$/AppData/Roaming/npm/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/Unit Testing/Auto Service (Retake Exam - 18.04.2019)/auto-service-tests.js</test-file>
+      <test-names>
+        <name value="AutoService Tests" />
+        <name value="signUpForReview should add current client to workInProgress when there is an available space" />
+      </test-names>
       <method v="2" />
     </configuration>
     <configuration name="Film Studio Tests" type="mocha-javascript-test-runner">
@@ -184,11 +294,18 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="Mocha.Auto Service Tests" />
       <item itemvalue="Mocha.Film Studio Tests" />
       <item itemvalue="Node.js.hotel.js" />
+      <item itemvalue="Node.js.organization.js" />
+      <item itemvalue="Mocha.AutoService Tests.signUpForReview should add current client to workInProgress when there is an available space" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Mocha.AutoService Tests.signUpForReview should add current client to workInProgress when there is an available space" />
+        <item itemvalue="Node.js.organization.js" />
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Node.js.hotel.js" />
       </list>
     </recent_temporary>
@@ -206,43 +323,46 @@
       <workItem from="1561724322324" duration="8138000" />
       <workItem from="1561804384427" duration="5296000" />
       <workItem from="1561817083518" duration="4774000" />
+      <workItem from="1561822565899" duration="101000" />
+      <workItem from="1561978149776" duration="1978000" />
+      <workItem from="1561981496554" duration="7677000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Film_Studio_Tests - 2019.06.29 at 17h 47m 29s.xml">
-      <configuration name="Film Studio Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="AutoService_Tests_signUpForReview_should_add_current_client_to_workInProgress_when_there_is_an_available_space - 2019.07.01 at 16h 28m 18s.xml">
+      <configuration name="AutoService Tests.signUpForReview should add current client to workInProgress when there is an available space" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Film_Studio_Tests - 2019.06.29 at 17h 47m 45s.xml">
-      <configuration name="Film Studio Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="AutoService_Tests_signUpForReview_should_add_current_client_to_workInProgress_when_there_is_an_available_space - 2019.07.01 at 16h 30m 11s.xml">
+      <configuration name="AutoService Tests.signUpForReview should add current client to workInProgress when there is an available space" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Film_Studio_Tests - 2019.06.29 at 17h 50m 06s.xml">
-      <configuration name="Film Studio Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Auto_Service_Tests - 2019.07.01 at 16h 31m 32s.xml">
+      <configuration name="Auto Service Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Film_Studio_Tests - 2019.06.29 at 17h 53m 47s.xml">
-      <configuration name="Film Studio Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Auto_Service_Tests - 2019.07.01 at 16h 33m 42s.xml">
+      <configuration name="Auto Service Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Film_Studio_Tests - 2019.06.29 at 17h 56m 36s.xml">
-      <configuration name="Film Studio Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Auto_Service_Tests - 2019.07.01 at 16h 36m 25s.xml">
+      <configuration name="Auto Service Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Film_Studio_Tests - 2019.06.29 at 18h 03m 21s.xml">
-      <configuration name="Film Studio Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Auto_Service_Tests - 2019.07.01 at 16h 36m 39s.xml">
+      <configuration name="Auto Service Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Film_Studio_Tests - 2019.06.29 at 18h 03m 48s.xml">
-      <configuration name="Film Studio Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Auto_Service_Tests - 2019.07.01 at 16h 41m 10s.xml">
+      <configuration name="Auto Service Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Film_Studio_Tests - 2019.06.29 at 18h 06m 40s.xml">
-      <configuration name="Film Studio Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Auto_Service_Tests - 2019.07.01 at 16h 45m 01s.xml">
+      <configuration name="Auto Service Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Film_Studio_Tests - 2019.06.29 at 18h 12m 38s.xml">
-      <configuration name="Film Studio Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Auto_Service_Tests - 2019.07.01 at 16h 46m 41s.xml">
+      <configuration name="Auto Service Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Film_Studio_Tests - 2019.06.29 at 18h 21m 23s.xml">
-      <configuration name="Film Studio Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Auto_Service_Tests - 2019.07.01 at 16h 52m 13s.xml">
+      <configuration name="Auto Service Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18208000" />
+    <option name="totallyTimeSpent" value="27964000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -271,13 +391,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DOM/SoftUni Courses (Exam - 17.03.2019)/scripts/solution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Downloads/02. Auto Service_Ресурси.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1496">
@@ -285,29 +398,88 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DOM/SoftUni Courses (Exam - 17.03.2019)/scripts/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOM/Coffee Bill (Retake Exam - 18.04.2019)/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DOM/SoftUni Courses (Exam - 17.03.2019)/template.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/DOM/Coffee Bill (Retake Exam - 18.04.2019)/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit Testing/node_modules/chai/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Classes/Hotel (Exam - 17.03.2019)/hotel.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="79" column="35" selection-start-line="79" selection-start-column="35" selection-end-line="79" selection-end-column="35" />
+        <state relative-caret-position="251">
+          <caret line="113" column="56" selection-start-line="112" selection-start-column="8" selection-end-line="113" selection-end-column="60" />
           <folding>
-            <element signature="n#!!block;n#constructor#0;n#Hotel#0" />
             <element signature="n#!!block;n#roomsPricing#0;n#Hotel#0" />
             <element signature="n#!!block;n#servicesPricing#0;n#Hotel#0" />
             <element signature="n#!!block;n#rentARoom#0;n#Hotel#0" />
             <element signature="n#!!block;n#roomService#0;n#Hotel#0" />
             <element signature="n#!!block;n#checkOut#0;n#Hotel#0" />
-            <element signature="n#!!block;n#report#0;n#Hotel#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Organization (Retake Exam - 18.04.2019)/organization.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="n#!!block;n#constructor#0;n#Organization#0" />
+            <element signature="n#!!block;n#departmentsBudget#0;n#Organization#0" />
+            <element signature="n#!!block;n#add#0;n#Organization#0" />
+            <element signature="n#!!block;n#employeeExists#0;n#Organization#0" />
+            <element signature="n#!!block;n#leaveOrganization#0;n#Organization#0" />
+            <element signature="n#!!block;n#status#0;n#Organization#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit Testing/Film Studio (Exam - 17.03.2019)/film-studio-tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="43" column="49" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
+          <folding>
+            <element signature="e#306#432#0" />
+            <element signature="e#518#642#0" />
+            <element signature="e#749#873#0" />
+            <element signature="e#972#1083#0" />
+            <element signature="e#1753#2047#0" />
+            <element signature="e#2147#2330#0" />
+            <element signature="e#2442#2733#0" />
+            <element signature="e#2841#3163#0" />
+            <element signature="e#3250#3573#0" />
+            <element signature="e#3679#3841#0" />
+            <element signature="e#3950#4422#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Unit Testing/Film Studio (Exam - 17.03.2019)/film-studio.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="81" column="50" lean-forward="true" selection-start-line="81" selection-start-column="50" selection-end-line="81" selection-end-column="50" />
+        <state relative-caret-position="352">
+          <caret line="81" column="50" selection-start-line="81" selection-start-column="50" selection-end-line="81" selection-end-column="50" />
           <folding>
             <element signature="n#!!block;n#casting#0;n#FilmStudio#0" />
             <element signature="n#!!block;n#makeMovie#0;n#FilmStudio#0" />
@@ -315,23 +487,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Unit Testing/Film Studio (Exam - 17.03.2019)/film-studio-tests.js">
+    <entry file="file://$PROJECT_DIR$/Unit Testing/Auto Service (Retake Exam - 18.04.2019)/auto-service.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="116" column="3" lean-forward="true" selection-start-line="116" selection-start-column="3" selection-end-line="116" selection-end-column="3" />
+        <state>
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
           <folding>
-            <element signature="e#331#470#0" />
-            <element signature="e#518#642#0" />
-            <element signature="e#749#873#0" />
-            <element signature="e#972#1083#0" />
-            <element signature="e#1186#1666#0" />
-            <element signature="e#1753#2047#0" />
-            <element signature="e#2147#2330#0" />
-            <element signature="e#2442#2733#0" />
-            <element signature="e#2841#3163#0" />
-            <element signature="e#3250#3573#0" />
-            <element signature="e#3679#3841#0" />
-            <element signature="e#3950#4381#0" />
+            <element signature="n#!!block;n#availableSpace#0;n#AutoService#0" />
+            <element signature="n#!!block;n#repairCar#0;n#AutoService#0" />
+            <element signature="n#!!block;n#signUpForReview#0;n#AutoService#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit Testing/Auto Service (Retake Exam - 18.04.2019)/auto-service-tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <element signature="e#316#442#0" />
+            <element signature="e#556#730#0" />
+            <element signature="e#689#750#0" />
+            <element signature="e#1342#1838#0" />
+            <element signature="e#1984#2186#0" />
+            <element signature="e#2292#2494#0" />
+            <element signature="e#2874#3338#0" />
+            <element signature="e#2851#3222#0" />
+            <element signature="e#3111#3319#0" />
+            <element signature="e#3506#3805#0" />
           </folding>
         </state>
       </provider>

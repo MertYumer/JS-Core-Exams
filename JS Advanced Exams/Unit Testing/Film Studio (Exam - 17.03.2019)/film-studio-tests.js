@@ -37,11 +37,11 @@ describe('FilmStudio Tests', function () {
     it('makeMovie function should return the correct object when arguments are valid', function () {
         const expected = {
             filmName: 'The Avengers',
-            filmRoles:
-                [{role: 'Iron-Man', actor: false},
-                    {role: 'Thor', actor: false},
-                    {role: 'Hulk', actor: false},
-                    {role: 'Arrow guy', actor: false}]
+            filmRoles: [
+                {role: 'Iron-Man', actor: false},
+                {role: 'Thor', actor: false},
+                {role: 'Hulk', actor: false},
+                {role: 'Arrow guy', actor: false}]
         };
 
         const actual = filmStudio.makeMovie('The Avengers', ['Iron-Man', 'Thor', 'Hulk', 'Arrow guy']);

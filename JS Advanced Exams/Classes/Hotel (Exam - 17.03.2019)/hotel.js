@@ -16,7 +16,7 @@ class Hotel {
             single: 50,
             double: 90,
             maisonette: 135
-        }
+        };
     }
 
     get servicesPricing() {
@@ -24,7 +24,7 @@ class Hotel {
             food: 10,
             drink: 15,
             housekeeping: 25
-        }
+        };
     }
 
     rentARoom(clientName, roomType, nights) {
