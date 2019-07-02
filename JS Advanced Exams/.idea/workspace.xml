@@ -69,33 +69,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DOM/Gift Shop (Exam - 19.12.2018)/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
+            <state relative-caret-position="1258">
               <caret line="37" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Classes/Kitchen (Exam - 19.12.2018)/kitchen.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
+            <state relative-caret-position="98">
+              <caret line="66" column="8" lean-forward="true" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
               <folding>
                 <element signature="n#!!block;n#constructor#0;n#Kitchen#0" />
                 <element signature="n#!!block;n#loadProducts#0;n#Kitchen#0" />
                 <element signature="n#!!block;n#addToMenu#0;n#Kitchen#0" />
                 <element signature="n#!!block;n#showTheMenu#0;n#Kitchen#0" />
-                <element signature="n#!!block;n#makeTheOrder#0;n#Kitchen#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Unit Testing/Warehouse (Exam - 19.12.2018)/warehouse.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="118" column="22" lean-forward="true" selection-start-line="118" selection-start-column="22" selection-end-line="118" selection-end-column="22" />
+            <state relative-caret-position="748">
+              <caret line="118" column="22" selection-start-line="118" selection-start-column="22" selection-end-line="118" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -136,8 +135,8 @@
         <option value="$PROJECT_DIR$/Unit Testing/Auto Service (Retake Exam - 18.04.2019)/auto-service.js" />
         <option value="$PROJECT_DIR$/Unit Testing/Auto Service (Retake Exam - 18.04.2019)/auto-service-tests.js" />
         <option value="$PROJECT_DIR$/DOM/Gift Shop (Exam - 19.12.2018)/app.js" />
-        <option value="$PROJECT_DIR$/Classes/Kitchen (Exam - 19.12.2018)/kitchen.js" />
         <option value="$PROJECT_DIR$/Unit Testing/Warehouse (Exam - 19.12.2018)/warehouse.js" />
+        <option value="$PROJECT_DIR$/Classes/Kitchen (Exam - 19.12.2018)/kitchen.js" />
       </list>
     </option>
   </component>
@@ -164,13 +163,13 @@
             <path>
               <item name="JS Advanced Exams" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Advanced Exams" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit Testing" type="462c0819:PsiDirectoryNode" />
+              <item name="Classes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JS Advanced Exams" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Advanced Exams" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit Testing" type="462c0819:PsiDirectoryNode" />
-              <item name="Warehouse (Exam - 19.12.2018)" type="462c0819:PsiDirectoryNode" />
+              <item name="Classes" type="462c0819:PsiDirectoryNode" />
+              <item name="Kitchen (Exam - 19.12.2018)" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -181,7 +180,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Unit Testing/Auto Service (Retake Exam - 18.04.2019)/auto-service-tests.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JS Core - May 2019/JS Advanced - June 2019/04. JS Classes - Exercises" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -294,6 +293,7 @@
       <workItem from="1561981496554" duration="7677000" />
       <workItem from="1562004059115" duration="224000" />
       <workItem from="1562065208976" duration="10473000" />
+      <workItem from="1562077024357" duration="153000" />
     </task>
     <servers />
   </component>
@@ -330,11 +330,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38661000" />
+    <option name="totallyTimeSpent" value="38814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17934094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -446,12 +445,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Unit Testing/node_modules/chai/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DOM/SoftUni Courses (Exam - 17.03.2019)/template.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Unit Testing/Auto Service (Retake Exam - 18.04.2019)/auto-service-tests.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -462,37 +455,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DOM/Gift Shop (Exam - 19.12.2018)/gift.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/DOM/Gift Shop (Exam - 19.12.2018)/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/DOM/Gift Shop (Exam - 19.12.2018)/gift.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/DOM/Gift Shop (Exam - 19.12.2018)/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
+        <state relative-caret-position="1258">
           <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit Testing/node_modules/chai/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOM/SoftUni Courses (Exam - 17.03.2019)/template.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit Testing/Warehouse (Exam - 19.12.2018)/warehouse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="118" column="22" selection-start-line="118" selection-start-column="22" selection-end-line="118" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Classes/Kitchen (Exam - 19.12.2018)/kitchen.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="98">
+          <caret line="66" column="8" lean-forward="true" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
           <folding>
             <element signature="n#!!block;n#constructor#0;n#Kitchen#0" />
             <element signature="n#!!block;n#loadProducts#0;n#Kitchen#0" />
             <element signature="n#!!block;n#addToMenu#0;n#Kitchen#0" />
             <element signature="n#!!block;n#showTheMenu#0;n#Kitchen#0" />
-            <element signature="n#!!block;n#makeTheOrder#0;n#Kitchen#0" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit Testing/Warehouse (Exam - 19.12.2018)/warehouse.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="118" column="22" lean-forward="true" selection-start-line="118" selection-start-column="22" selection-end-line="118" selection-end-column="22" />
         </state>
       </provider>
     </entry>
