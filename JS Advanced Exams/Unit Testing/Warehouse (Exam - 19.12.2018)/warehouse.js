@@ -119,3 +119,5 @@ class Warehouse {
         return output;
     }
 }
+
+module.exports = Warehouse;

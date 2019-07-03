@@ -14,54 +14,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classes/Organization (Retake Exam - 18.04.2019)/organization.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="61" selection-start-line="61" selection-end-line="61" />
-              <folding>
-                <element signature="n#!!block;n#constructor#0;n#Organization#0" />
-                <element signature="n#!!block;n#departmentsBudget#0;n#Organization#0" />
-                <element signature="n#!!block;n#add#0;n#Organization#0" />
-                <element signature="n#!!block;n#employeeExists#0;n#Organization#0" />
-                <element signature="n#!!block;n#leaveOrganization#0;n#Organization#0" />
-                <element signature="n#!!block;n#status#0;n#Organization#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unit Testing/Auto Service (Retake Exam - 18.04.2019)/auto-service.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-              <folding>
-                <element signature="n#!!block;n#availableSpace#0;n#AutoService#0" />
-                <element signature="n#!!block;n#repairCar#0;n#AutoService#0" />
-                <element signature="n#!!block;n#signUpForReview#0;n#AutoService#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unit Testing/Auto Service (Retake Exam - 18.04.2019)/auto-service-tests.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-              <folding>
-                <element signature="e#1984#2186#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DOM/Gift Shop (Exam - 19.12.2018)/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DOM/Gift Shop (Exam - 19.12.2018)/gift.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
@@ -69,17 +21,76 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DOM/Gift Shop (Exam - 19.12.2018)/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1258">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="1530">
+              <caret line="45" column="39" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Unit Testing/Warehouse (Exam - 19.12.2018)/warehouse-tests.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+              <folding>
+                <element signature="e#291#577#0" />
+                <element signature="e#681#834#0" />
+                <element signature="e#951#1329#0" />
+                <element signature="e#1430#1713#0" />
+                <element signature="e#1825#1969#0" />
+                <element signature="e#2081#2376#0" />
+                <element signature="e#2491#2594#0" />
+                <element signature="e#2693#2913#0" />
+                <element signature="e#3046#3266#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DOM/Holiday Destinations (Retake Exam - 30.08.2018)/holiday-destinations.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="25" />
+              <folding>
+                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DOM/Holiday Destinations (Retake Exam - 30.08.2018)/solution.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="13" selection-end-line="50" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Classes/Vacationer (Retake Exam - 30.08.2018)/vacationer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+              <folding>
+                <element signature="n#!!block;n#constructor#0;n#Vacationer#0" />
+                <element signature="n#!!block;n#fullName#0;n#Vacationer#0" />
+                <element signature="n#!!block;n#fullName#1;n#Vacationer#0" />
+                <element signature="n#!!block;n#generateIDNumber#0;n#Vacationer#0" />
+                <element signature="n#!!block;n#addCreditCardInfo#0;n#Vacationer#0" />
+                <element signature="n#!!block;n#addDestinationToWishList#0;n#Vacationer#0" />
+                <element signature="n#!!block;n#getVacationerInfo#0;n#Vacationer#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Classes/Kitchen (Exam - 19.12.2018)/kitchen.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="66" column="8" lean-forward="true" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+            <state relative-caret-position="544">
+              <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
               <folding>
                 <element signature="n#!!block;n#constructor#0;n#Kitchen#0" />
                 <element signature="n#!!block;n#loadProducts#0;n#Kitchen#0" />
@@ -93,8 +104,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Unit Testing/Warehouse (Exam - 19.12.2018)/warehouse.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="118" column="22" selection-start-line="118" selection-start-column="22" selection-end-line="118" selection-end-column="22" />
+            <state relative-caret-position="1190">
+              <caret line="115" column="20" selection-start-line="115" selection-start-column="20" selection-end-line="115" selection-end-column="20" />
+              <folding>
+                <element signature="n#!!block;n#capacity#0;n#Warehouse#0" />
+                <element signature="n#!!block;n#capacity#1;n#Warehouse#0" />
+                <element signature="n#!!block;n#addProduct#0;n#Warehouse#0" />
+                <element signature="n#!!block;n#orderProducts#0;n#Warehouse#0" />
+                <element signature="n#!!block;n#occupiedCapacity#0;n#Warehouse#0" />
+                <element signature="n#!!block;n#revision#0;n#Warehouse#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -114,6 +133,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -133,10 +153,14 @@
         <option value="$PROJECT_DIR$/Classes/Organization (Retake Exam - 18.04.2019)/organization.js" />
         <option value="$PROJECT_DIR$/Unit Testing/Film Studio (Exam - 17.03.2019)/film-studio-tests.js" />
         <option value="$PROJECT_DIR$/Unit Testing/Auto Service (Retake Exam - 18.04.2019)/auto-service.js" />
-        <option value="$PROJECT_DIR$/Unit Testing/Auto Service (Retake Exam - 18.04.2019)/auto-service-tests.js" />
+        <option value="$PROJECT_DIR$/Classes/Kitchen (Exam - 19.12.2018)/kitchen.js" />
         <option value="$PROJECT_DIR$/DOM/Gift Shop (Exam - 19.12.2018)/app.js" />
         <option value="$PROJECT_DIR$/Unit Testing/Warehouse (Exam - 19.12.2018)/warehouse.js" />
-        <option value="$PROJECT_DIR$/Classes/Kitchen (Exam - 19.12.2018)/kitchen.js" />
+        <option value="$PROJECT_DIR$/Unit Testing/Warehouse (Exam - 19.12.2018)/warehouse-tests.js" />
+        <option value="$PROJECT_DIR$/Unit Testing/Auto Service (Retake Exam - 18.04.2019)/auto-service-tests.js" />
+        <option value="$PROJECT_DIR$/DOM/Holiday Destinations (Retake Exam - 30.08.2018)/holiday-destinations.html" />
+        <option value="$PROJECT_DIR$/DOM/Holiday Destinations (Retake Exam - 30.08.2018)/solution.js" />
+        <option value="$PROJECT_DIR$/Classes/Vacationer (Retake Exam - 30.08.2018)/vacationer.js" />
       </list>
     </option>
   </component>
@@ -169,7 +193,7 @@
               <item name="JS Advanced Exams" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Advanced Exams" type="462c0819:PsiDirectoryNode" />
               <item name="Classes" type="462c0819:PsiDirectoryNode" />
-              <item name="Kitchen (Exam - 19.12.2018)" type="462c0819:PsiDirectoryNode" />
+              <item name="Vacationer (Retake Exam - 30.08.2018)" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -178,9 +202,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JS Core - May 2019/JS Advanced - June 2019/04. JS Classes - Exercises" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Unit Testing/Warehouse (Exam - 19.12.2018)/warehouse-tests.js" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -203,17 +228,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.kitchen.js">
+  <component name="RunManager" selected="Node.js.vacationer.js">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS Advanced Exams/DOM/Coffee Bill (Retake Exam - 18.04.2019)/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="hotel.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="hotel.js" working-dir="$PROJECT_DIR$/Classes/Hotel (Exam - 17.03.2019)">
       <method v="2" />
     </configuration>
     <configuration name="kitchen.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="kitchen.js" working-dir="$PROJECT_DIR$/Classes/Kitchen (Exam - 19.12.2018)">
       <method v="2" />
     </configuration>
     <configuration name="organization.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="organization.js" working-dir="$PROJECT_DIR$/Classes/Organization (Retake Exam - 18.04.2019)">
+      <method v="2" />
+    </configuration>
+    <configuration name="vacationer.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="vacationer.js" working-dir="$PROJECT_DIR$/Classes/Vacationer (Retake Exam - 30.08.2018)">
       <method v="2" />
     </configuration>
     <configuration name="Auto Service Tests" type="mocha-javascript-test-runner">
@@ -256,22 +281,35 @@
       <test-file>$PROJECT_DIR$/Unit Testing/Film Studio (Exam - 17.03.2019)/film-studio-tests.js</test-file>
       <method v="2" />
     </configuration>
+    <configuration name="Warehouse Tests" type="mocha-javascript-test-runner">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$USER_HOME$/AppData/Roaming/npm/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/Unit Testing/Warehouse (Exam - 19.12.2018)/warehouse-tests.js</test-file>
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="Mocha.Warehouse Tests" />
       <item itemvalue="Mocha.Auto Service Tests" />
       <item itemvalue="Mocha.Film Studio Tests" />
       <item itemvalue="Mocha.AutoService Tests.signUpForReview should add current client to workInProgress when there is an available space" />
-      <item itemvalue="Node.js.hotel.js" />
       <item itemvalue="Node.js.organization.js" />
       <item itemvalue="Node.js.kitchen.js" />
+      <item itemvalue="Node.js.vacationer.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.vacationer.js" />
         <item itemvalue="Node.js.kitchen.js" />
         <item itemvalue="Mocha.AutoService Tests.signUpForReview should add current client to workInProgress when there is an available space" />
         <item itemvalue="Node.js.organization.js" />
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="Node.js.hotel.js" />
       </list>
     </recent_temporary>
   </component>
@@ -294,52 +332,56 @@
       <workItem from="1562004059115" duration="224000" />
       <workItem from="1562065208976" duration="10473000" />
       <workItem from="1562077024357" duration="153000" />
+      <workItem from="1562092493857" duration="280000" />
+      <workItem from="1562152801486" duration="7310000" />
+      <workItem from="1562161341339" duration="8777000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AutoService_Tests_signUpForReview_should_add_current_client_to_workInProgress_when_there_is_an_available_space - 2019.07.01 at 16h 28m 18s.xml">
-      <configuration name="AutoService Tests.signUpForReview should add current client to workInProgress when there is an available space" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Warehouse_Tests - 2019.07.03 at 15h 57m 00s.xml">
+      <configuration name="Warehouse Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="AutoService_Tests_signUpForReview_should_add_current_client_to_workInProgress_when_there_is_an_available_space - 2019.07.01 at 16h 30m 11s.xml">
-      <configuration name="AutoService Tests.signUpForReview should add current client to workInProgress when there is an available space" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Warehouse_Tests - 2019.07.03 at 16h 03m 40s.xml">
+      <configuration name="Warehouse Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Auto_Service_Tests - 2019.07.01 at 16h 31m 32s.xml">
+    <history-entry file="Warehouse_Tests - 2019.07.03 at 16h 08m 47s.xml">
+      <configuration name="Warehouse Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Warehouse_Tests - 2019.07.03 at 16h 09m 31s.xml">
+      <configuration name="Warehouse Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Warehouse_Tests - 2019.07.03 at 16h 18m 52s.xml">
+      <configuration name="Warehouse Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Warehouse_Tests - 2019.07.03 at 16h 20m 12s.xml">
+      <configuration name="Warehouse Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Auto_Service_Tests - 2019.07.03 at 16h 20m 38s.xml">
       <configuration name="Auto Service Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Auto_Service_Tests - 2019.07.01 at 16h 33m 42s.xml">
+    <history-entry file="Auto_Service_Tests - 2019.07.03 at 16h 21m 21s.xml">
       <configuration name="Auto Service Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Auto_Service_Tests - 2019.07.01 at 16h 36m 25s.xml">
+    <history-entry file="Auto_Service_Tests - 2019.07.03 at 16h 21m 48s.xml">
       <configuration name="Auto Service Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Auto_Service_Tests - 2019.07.01 at 16h 36m 39s.xml">
-      <configuration name="Auto Service Tests" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="Auto_Service_Tests - 2019.07.01 at 16h 41m 10s.xml">
-      <configuration name="Auto Service Tests" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="Auto_Service_Tests - 2019.07.01 at 16h 45m 01s.xml">
-      <configuration name="Auto Service Tests" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="Auto_Service_Tests - 2019.07.01 at 16h 46m 41s.xml">
-      <configuration name="Auto Service Tests" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="Auto_Service_Tests - 2019.07.01 at 16h 52m 13s.xml">
+    <history-entry file="Auto_Service_Tests - 2019.07.03 at 16h 43m 58s.xml">
       <configuration name="Auto Service Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38814000" />
+    <option name="totallyTimeSpent" value="55181000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17934094" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17934094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32914925" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32914925" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39888424" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -447,10 +489,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Unit Testing/Auto Service (Retake Exam - 18.04.2019)/auto-service-tests.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="102">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-end-line="89" selection-end-column="3" />
           <folding>
-            <element signature="e#1984#2186#0" />
+            <element signature="e#129#4315#0" />
+            <element signature="e#304#478#0" />
+            <element signature="e#551#612#0" />
+            <element signature="e#731#1128#0" />
+            <element signature="e#1248#1783#0" />
+            <element signature="e#1885#2087#0" />
+            <element signature="e#2199#2663#0" />
+            <element signature="e#2772#3278#0" />
+            <element signature="e#3385#3545#0" />
+            <element signature="e#3645#3944#0" />
+            <element signature="e#4032#4311#0" />
           </folding>
         </state>
       </provider>
@@ -463,8 +515,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DOM/Gift Shop (Exam - 19.12.2018)/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1258">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="1530">
+          <caret line="45" column="39" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Kitchen (Exam - 19.12.2018)/kitchen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+          <folding>
+            <element signature="n#!!block;n#constructor#0;n#Kitchen#0" />
+            <element signature="n#!!block;n#loadProducts#0;n#Kitchen#0" />
+            <element signature="n#!!block;n#addToMenu#0;n#Kitchen#0" />
+            <element signature="n#!!block;n#showTheMenu#0;n#Kitchen#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit Testing/Warehouse (Exam - 19.12.2018)/warehouse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="115" column="20" selection-start-line="115" selection-start-column="20" selection-end-line="115" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!block;n#capacity#0;n#Warehouse#0" />
+            <element signature="n#!!block;n#capacity#1;n#Warehouse#0" />
+            <element signature="n#!!block;n#addProduct#0;n#Warehouse#0" />
+            <element signature="n#!!block;n#orderProducts#0;n#Warehouse#0" />
+            <element signature="n#!!block;n#occupiedCapacity#0;n#Warehouse#0" />
+            <element signature="n#!!block;n#revision#0;n#Warehouse#0" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -474,22 +554,53 @@
     <entry file="file://$PROJECT_DIR$/DOM/SoftUni Courses (Exam - 17.03.2019)/template.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Unit Testing/Warehouse (Exam - 19.12.2018)/warehouse.js">
+    <entry file="file://$PROJECT_DIR$/DOM/Holiday Destinations (Retake Exam - 30.08.2018)/holiday-destinations.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="118" column="22" selection-start-line="118" selection-start-column="22" selection-end-line="118" selection-end-column="22" />
+        <state relative-caret-position="238">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Classes/Kitchen (Exam - 19.12.2018)/kitchen.js">
+    <entry file="file://$PROJECT_DIR$/DOM/Holiday Destinations (Retake Exam - 30.08.2018)/solution.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="66" column="8" lean-forward="true" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+        <state relative-caret-position="78">
+          <caret line="13" selection-end-line="50" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit Testing/Warehouse (Exam - 19.12.2018)/warehouse-tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
           <folding>
-            <element signature="n#!!block;n#constructor#0;n#Kitchen#0" />
-            <element signature="n#!!block;n#loadProducts#0;n#Kitchen#0" />
-            <element signature="n#!!block;n#addToMenu#0;n#Kitchen#0" />
-            <element signature="n#!!block;n#showTheMenu#0;n#Kitchen#0" />
+            <element signature="e#291#577#0" />
+            <element signature="e#681#834#0" />
+            <element signature="e#951#1329#0" />
+            <element signature="e#1430#1713#0" />
+            <element signature="e#1825#1969#0" />
+            <element signature="e#2081#2376#0" />
+            <element signature="e#2491#2594#0" />
+            <element signature="e#2693#2913#0" />
+            <element signature="e#3046#3266#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Vacationer (Retake Exam - 30.08.2018)/vacationer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!block;n#constructor#0;n#Vacationer#0" />
+            <element signature="n#!!block;n#fullName#0;n#Vacationer#0" />
+            <element signature="n#!!block;n#fullName#1;n#Vacationer#0" />
+            <element signature="n#!!block;n#generateIDNumber#0;n#Vacationer#0" />
+            <element signature="n#!!block;n#addCreditCardInfo#0;n#Vacationer#0" />
+            <element signature="n#!!block;n#addDestinationToWishList#0;n#Vacationer#0" />
+            <element signature="n#!!block;n#getVacationerInfo#0;n#Vacationer#0" />
           </folding>
         </state>
       </provider>

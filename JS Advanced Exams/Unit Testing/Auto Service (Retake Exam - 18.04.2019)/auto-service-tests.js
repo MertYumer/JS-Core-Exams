@@ -21,14 +21,8 @@ describe('AutoService Tests', function () {
     it('signUpForReview should add current client to workInProgress when there is an available space', function () {
         autoService.signUpForReview('Peter', 'CA1234CA', {'engine': 'MFRGG23', 'transmission': 'FF4418ZZ', 'doors': 'broken'});
 
-        let currentClient = {
-            plateNumber : 'Peter',
-            clientName: 'CA1234CA',
-            carInfo: {'engine': 'MFRGG23', 'transmission': 'FF4418ZZ', 'doors': 'broken'}
-        };
-
-        const expected = currentClient.toString();
-        const actual = autoService.workInProgress[0].toString();
+        const expected = '{"plateNumber":"CA1234CA","clientName":"Peter","carInfo":{"engine":"MFRGG23","transmission":"FF4418ZZ","doors":"broken"}}';
+        const actual = JSON.stringify(autoService.workInProgress[0]);
 
         assert.equal(actual, expected);
     });
@@ -37,14 +31,8 @@ describe('AutoService Tests', function () {
         autoService = new AutoService(0);
         autoService.signUpForReview('Peter', 'CA1234CA', {'engine': 'MFRGG23', 'transmission': 'FF4418ZZ', 'doors': 'broken'});
 
-        let currentClient = {
-            plateNumber : 'Peter',
-            clientName: 'CA1234CA',
-            carInfo: {'engine': 'MFRGG23', 'transmission': 'FF4418ZZ', 'doors': 'broken'}
-        };
-
-        const expected = currentClient.toString();
-        const actual = autoService.backlogWork[0].toString();
+        const expected = '{"plateNumber":"CA1234CA","clientName":"Peter","carInfo":{"engine":"MFRGG23","transmission":"FF4418ZZ","doors":"broken"}}';
+        const actual = JSON.stringify(autoService.backlogWork[0]);
 
         assert.equal(actual, expected);
     });
@@ -59,30 +47,20 @@ describe('AutoService Tests', function () {
     it('carInfo should return the car object when the searched car is found in workInProgress', function () {
         autoService.signUpForReview('Peter', 'CA1234CA', {'engine': 'MFRGG23', 'transmission': 'FF4418ZZ', 'doors': 'broken'});
 
-        const expected = {
-            plateNumber : 'Peter',
-            clientName: 'CA1234CA',
-            carInfo: {'engine': 'MFRGG23', 'transmission': 'FF4418ZZ', 'doors': 'broken'}
-        };
+        const expected = '{"plateNumber":"CA1234CA","clientName":"Peter","carInfo":{"engine":"MFRGG23","transmission":"FF4418ZZ","doors":"broken"}}';
+        const actual = JSON.stringify(autoService.carInfo('CA1234CA', 'Peter'));
 
-        const actual = autoService.carInfo('CA1234CA', 'Peter');
-
-        assert.equal(actual.toString(), expected.toString());
+        assert.equal(actual, expected);
     });
 
     it('carInfo should return the car object when the searched car is found in backlogWork', function () {
         autoService = new AutoService(0);
         autoService.signUpForReview('Peter', 'CA1234CA', {'engine': 'MFRGG23', 'transmission': 'FF4418ZZ', 'doors': 'broken'});
 
-        const expected = {
-            plateNumber : 'Peter',
-            clientName: 'CA1234CA',
-            carInfo: {'engine': 'MFRGG23', 'transmission': 'FF4418ZZ', 'doors': 'broken'}
-        };
+        const expected = '{"plateNumber":"CA1234CA","clientName":"Peter","carInfo":{"engine":"MFRGG23","transmission":"FF4418ZZ","doors":"broken"}}';
+        const actual = JSON.stringify(autoService.carInfo('CA1234CA', 'Peter'));
 
-        const actual = autoService.carInfo('CA1234CA', 'Peter');
-
-        assert.equal(actual.toString(), expected.toString());
+        assert.equal(actual, expected);
     });
 
     it('repairCar should return the correct string when there are no cars in the service', function () {
