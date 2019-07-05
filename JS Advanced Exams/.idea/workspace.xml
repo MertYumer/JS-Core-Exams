@@ -14,15 +14,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unit Testing/Holiday Package (Retake Exam - 30.08.2018)/holiday-package-tests.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DOM/Notes (Exam - 15.07.2018)/notes.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="748">
@@ -90,24 +81,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Unit Testing/Calculator Class (Exam - 15.07.2018)/calculator-tests.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-end-line="96" selection-end-column="3" />
+            <state relative-caret-position="170">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
               <folding>
-                <element signature="e#119#3142#0" />
                 <element signature="e#169#215#0" />
-                <element signature="e#574#699#0" />
-                <element signature="e#801#1095#0" />
-                <element signature="e#1202#1262#0" />
-                <element signature="e#1363#1564#0" />
-                <element signature="e#1682#1920#0" />
-                <element signature="e#2040#2174#0" />
-                <element signature="e#2291#2548#0" />
-                <element signature="e#2612#2824#0" />
-                <element signature="e#2890#3138#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DOM/Gift Shop (Exam - 19.12.2018)/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1088">
+              <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -162,7 +152,6 @@
         <option value="$PROJECT_DIR$/Unit Testing/Film Studio (Exam - 17.03.2019)/film-studio-tests.js" />
         <option value="$PROJECT_DIR$/Unit Testing/Auto Service (Retake Exam - 18.04.2019)/auto-service.js" />
         <option value="$PROJECT_DIR$/Classes/Kitchen (Exam - 19.12.2018)/kitchen.js" />
-        <option value="$PROJECT_DIR$/DOM/Gift Shop (Exam - 19.12.2018)/app.js" />
         <option value="$PROJECT_DIR$/Unit Testing/Warehouse (Exam - 19.12.2018)/warehouse.js" />
         <option value="$PROJECT_DIR$/Unit Testing/Warehouse (Exam - 19.12.2018)/warehouse-tests.js" />
         <option value="$PROJECT_DIR$/Unit Testing/Auto Service (Retake Exam - 18.04.2019)/auto-service-tests.js" />
@@ -176,6 +165,7 @@
         <option value="$PROJECT_DIR$/Classes/Book Collection (Exam - 15.07.2018)/book-collection.js" />
         <option value="$PROJECT_DIR$/Unit Testing/Calculator Class (Exam - 15.07.2018)/calculator.js" />
         <option value="$PROJECT_DIR$/Unit Testing/Calculator Class (Exam - 15.07.2018)/calculator-tests.js" />
+        <option value="$PROJECT_DIR$/DOM/Gift Shop (Exam - 19.12.2018)/app.js" />
       </list>
     </option>
   </component>
@@ -191,7 +181,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,18 +191,24 @@
             <path>
               <item name="JS Advanced Exams" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Advanced Exams" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit Testing" type="462c0819:PsiDirectoryNode" />
+              <item name="DOM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS Advanced Exams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Advanced Exams" type="462c0819:PsiDirectoryNode" />
+              <item name="DOM" type="462c0819:PsiDirectoryNode" />
+              <item name="Gift Shop (Exam - 19.12.2018)" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JS Advanced Exams" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Advanced Exams" type="462c0819:PsiDirectoryNode" />
               <item name="Unit Testing" type="462c0819:PsiDirectoryNode" />
-              <item name="Calculator Class (Exam - 15.07.2018)" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -383,6 +378,8 @@
       <workItem from="1562322212329" duration="10244000" />
       <workItem from="1562335014367" duration="519000" />
       <workItem from="1562336228168" duration="300000" />
+      <workItem from="1562339663122" duration="79000" />
+      <workItem from="1562340022273" duration="63000" />
     </task>
     <servers />
   </component>
@@ -419,13 +416,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69676000" />
+    <option name="totallyTimeSpent" value="69818000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17934094" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17934094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -537,13 +534,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="13" selection-end-line="50" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DOM/Gift Shop (Exam - 19.12.2018)/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
-          <caret line="45" column="39" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -723,21 +713,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Unit Testing/Calculator Class (Exam - 15.07.2018)/calculator-tests.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-end-line="96" selection-end-column="3" />
+        <state relative-caret-position="170">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
           <folding>
-            <element signature="e#119#3142#0" />
             <element signature="e#169#215#0" />
-            <element signature="e#574#699#0" />
-            <element signature="e#801#1095#0" />
-            <element signature="e#1202#1262#0" />
-            <element signature="e#1363#1564#0" />
-            <element signature="e#1682#1920#0" />
-            <element signature="e#2040#2174#0" />
-            <element signature="e#2291#2548#0" />
-            <element signature="e#2612#2824#0" />
-            <element signature="e#2890#3138#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOM/Gift Shop (Exam - 19.12.2018)/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
         </state>
       </provider>
     </entry>
