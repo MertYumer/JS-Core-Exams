@@ -14,7 +14,7 @@ function addSticker() {
         const a = document.createElement('a');
         a.classList.add('button');
         a.textContent = 'x';
-        a.addEventListener('click', () => li.remove());
+        a.addEventListener('click', () => stickerList.removeChild(li));
 
         const h2 = document.createElement('h2');
         h2.textContent = title;
