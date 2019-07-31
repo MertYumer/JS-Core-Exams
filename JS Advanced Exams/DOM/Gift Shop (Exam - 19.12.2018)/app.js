@@ -33,12 +33,10 @@ function solution() {
         });
 
         div.appendChild(buyButton);
-
-        document.getElementById('christmasGiftShop').appendChild(div);
+        giftShop.appendChild(div);
     }
 
     toyTypeInput.value = '';
     toyPriceInput.value = '';
     toyDescriptionInput.value = '';
 }
-
