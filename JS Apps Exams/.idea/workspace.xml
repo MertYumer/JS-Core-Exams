@@ -13,14 +13,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/controllers/recipeController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="32" column="55" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
+            <state relative-caret-position="646">
+              <caret line="105" column="24" selection-start-line="105" selection-start-column="24" selection-end-line="105" selection-end-column="24" />
               <folding>
                 <element signature="e#86#365#0" />
                 <element signature="e#416#790#0" />
+                <element signature="e#847#1468#0" />
+                <element signature="e#1521#2098#0" />
+                <element signature="e#2154#2601#0" />
+                <element signature="e#2633#2970#0" />
               </folding>
             </state>
           </provider>
@@ -29,7 +33,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/views/recipes/recipeDetails.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
+            <state relative-caret-position="486">
               <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
             </state>
           </provider>
@@ -38,8 +42,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="16" column="75" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
+            <state relative-caret-position="316">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -48,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/views/home/homePage.hbs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -56,17 +60,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/views/recipes/editRecipe.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="952">
-              <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+            <state relative-caret-position="68">
+              <caret line="17" column="71" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="248">
+              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -125,7 +129,6 @@
         <option value="$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/views/common/footer.hbs" />
         <option value="$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/views/user/registerPage.hbs" />
         <option value="$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/views/user/loginPage.hbs" />
-        <option value="$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/views/recipes/editRecipe.hbs" />
         <option value="$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/helpers/storage.js" />
         <option value="$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/helpers/helper.js" />
         <option value="$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/controllers/userController.js" />
@@ -139,8 +142,9 @@
         <option value="$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/views/home/homePage.hbs" />
         <option value="$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/views/recipes/recipeDetails.hbs" />
         <option value="$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/views/recipes/recipeView.hbs" />
-        <option value="$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/scripts/app.js" />
+        <option value="$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/views/recipes/editRecipe.hbs" />
         <option value="$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/controllers/recipeController.js" />
+        <option value="$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/scripts/app.js" />
       </list>
     </option>
   </component>
@@ -202,30 +206,6 @@
               <item name="CookUni" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JS Apps Exams" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS Apps Exams" type="462c0819:PsiDirectoryNode" />
-              <item name="Retake Exam - 20.04.2019" type="462c0819:PsiDirectoryNode" />
-              <item name="CookUni" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS Apps Exams" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS Apps Exams" type="462c0819:PsiDirectoryNode" />
-              <item name="Retake Exam - 20.04.2019" type="462c0819:PsiDirectoryNode" />
-              <item name="CookUni" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS Apps Exams" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS Apps Exams" type="462c0819:PsiDirectoryNode" />
-              <item name="Retake Exam - 20.04.2019" type="462c0819:PsiDirectoryNode" />
-              <item name="CookUni" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="recipes" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -283,11 +263,13 @@
       <workItem from="1564755172309" duration="1340000" />
       <workItem from="1564756584482" duration="1473000" />
       <workItem from="1564758129099" duration="51000" />
+      <workItem from="1564758377697" duration="115000" />
+      <workItem from="1564760617128" duration="1101000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9309000" />
+    <option name="totallyTimeSpent" value="10525000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -309,7 +291,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.20179948" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.20694087" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -394,35 +376,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/controllers/recipeController.js">
+    <entry file="file://$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/views/home/homePage.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="32" column="55" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
-          <folding>
-            <element signature="e#86#365#0" />
-            <element signature="e#416#790#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/views/recipes/recipeDetails.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/scripts/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="16" column="75" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/views/recipes/editRecipe.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+        <state relative-caret-position="34">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -454,17 +411,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/views/home/homePage.hbs">
+    <entry file="file://$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/views/recipes/recipeDetails.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        <state relative-caret-position="486">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/views/recipes/editRecipe.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="17" column="71" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="248">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam - 20.04.2019/CookUni/controllers/recipeController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="105" column="24" selection-start-line="105" selection-start-column="24" selection-end-line="105" selection-end-column="24" />
+          <folding>
+            <element signature="e#86#365#0" />
+            <element signature="e#416#790#0" />
+            <element signature="e#847#1468#0" />
+            <element signature="e#1521#2098#0" />
+            <element signature="e#2154#2601#0" />
+            <element signature="e#2633#2970#0" />
+          </folding>
         </state>
       </provider>
     </entry>

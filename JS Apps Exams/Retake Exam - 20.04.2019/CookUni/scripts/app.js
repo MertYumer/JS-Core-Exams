@@ -19,19 +19,10 @@ const app = Sammy('#rooter', function () {
     this.get('#/create', recipeController.getCreateRecipe);
     this.post('#/create', recipeController.postCreateRecipe);
 
-    /*//Movie
-    this.get('#/cinema', movieController.getAllMovies);
-    this.get('#/myMovies', movieController.getMyMovies);
-    this.get('#/eventDetails/:movieId', movieController.getMovieDetails);
+    this.get('#/edit/:recipeId', recipeController.getEditRecipe);
+    this.post('#/edit/:recipeId', recipeController.postEditRecipe);
 
-    this.get('#/create', movieController.getCreateMovie);
-    this.post('#/create', movieController.postCreateMovie);
-
-    this.get('#/edit/:movieId', movieController.getEditMovie);
-    this.post('#/edit/:movieId', movieController.postEditMovie);
-
-    this.get('#/delete/:movieId', movieController.getDeleteMovie);
-    this.post('#/delete/:movieId', movieController.postDeleteMovie);*/
+    this.get('#/delete/:recipeId', recipeController.postDeleteRecipe);
 });
 
 (() => {
