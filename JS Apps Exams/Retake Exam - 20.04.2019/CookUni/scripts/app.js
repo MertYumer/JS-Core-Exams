@@ -13,6 +13,12 @@ const app = Sammy('#rooter', function () {
 
     this.get('#/logout', userController.postLogout);
 
+    //Recipe
+    this.get('#/recipeDetails/:recipeId', recipeController.getRecipeDetails);
+
+    this.get('#/create', recipeController.getCreateRecipe);
+    this.post('#/create', recipeController.postCreateRecipe);
+
     /*//Movie
     this.get('#/cinema', movieController.getAllMovies);
     this.get('#/myMovies', movieController.getMyMovies);
