@@ -14,15 +14,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Retake Exam - 21.12.2018/Spotify/views/songs/allSongsView.hbs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Retake Exam - 21.12.2018/Spotify/views/songs/songView.hbs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
@@ -59,7 +50,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exam - 14.04.2019 (Second Group)/Movies/controllers/movieController.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -68,6 +59,15 @@
                 <element signature="e#88#656#0" />
                 <element signature="e#708#1347#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exam - 14.04.2019 (First Group)/UniEnt/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -168,6 +168,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,11 +176,21 @@
               <item name="JS Apps Exams" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Apps Exams" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JS Apps Exams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Apps Exams" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam - 14.04.2019 (First Group)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS Apps Exams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Apps Exams" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam - 14.04.2019 (First Group)" type="462c0819:PsiDirectoryNode" />
+              <item name="UniEnt" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -202,11 +213,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
+  <component name="RunManager" selected="JavaScript Debug.index.html (3)">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS Apps Exams/Exam - 14.04.2019 (Second Group)/Movies/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS Apps Exams/Retake Exam - 21.12.2018/Spotify/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS Apps Exams/Exam - 14.04.2019 (First Group)/UniEnt/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS Apps Exams/Retake Exam - 20.04.2019/CookUni/index.html" useBuiltInWebServerPort="true">
@@ -214,6 +228,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (3)" />
         <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
@@ -242,14 +257,17 @@
       <workItem from="1564827636496" duration="7570000" />
       <workItem from="1564846545878" duration="525000" />
       <workItem from="1564847091884" duration="24000" />
+      <workItem from="1564857681452" duration="18000" />
+      <workItem from="1564857723771" duration="32000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18683000" />
+    <option name="totallyTimeSpent" value="18733000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -267,7 +285,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.21722364" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.22236504" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -559,6 +577,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 14.04.2019 (First Group)/UniEnt/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exam - 14.04.2019 (Second Group)/Movies/controllers/movieController.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -567,6 +588,13 @@
             <element signature="e#88#656#0" />
             <element signature="e#708#1347#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 14.04.2019 (First Group)/UniEnt/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
         </state>
       </provider>
     </entry>
