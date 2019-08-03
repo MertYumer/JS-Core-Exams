@@ -58,7 +58,6 @@ const songController = function () {
     const postCreateSong = function (context) {
         const url = `/appdata/${storage.appKey}/songs`;
         const authorizationType = 'Kinvey';
-
         const data = {...context.params};
 
         requester
@@ -94,7 +93,6 @@ const songController = function () {
         const url = `/appdata/${storage.appKey}/songs/${id}`;
         delete context.params.songId;
         const authorizationType = 'Kinvey';
-
         const data = {...context.params};
 
         requester

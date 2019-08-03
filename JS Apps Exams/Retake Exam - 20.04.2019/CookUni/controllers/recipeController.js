@@ -14,7 +14,6 @@ const recipeController = function () {
     const postCreateRecipe = function (context) {
         const url = `/appdata/${storage.appKey}/recipes`;
         const authorizationType = 'Kinvey';
-
         const data = {...context.params};
 
         requester
@@ -73,7 +72,6 @@ const recipeController = function () {
         const url = `/appdata/${storage.appKey}/recipes/${id}`;
         delete context.params.recipeId;
         const authorizationType = 'Kinvey';
-
         const data = {...context.params};
 
         requester

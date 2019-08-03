@@ -77,10 +77,7 @@ const eventController = function () {
         const url = `/appdata/${storage.appKey}/events/${id}`;
         delete context.params.eventId;
         const authorizationType = 'Kinvey';
-
-        const data = {
-            ...context.params
-        };
+        const data = {...context.params};
 
         requester
             .put(url, authorizationType, data)

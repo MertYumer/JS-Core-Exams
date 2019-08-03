@@ -41,32 +41,6 @@ const movieController = function () {
         });
     };
 
-    const getCreateMovie = function (context) {
-        helper.addHeaderInfo(context);
-
-        context.loadPartials({
-            header: './views/common/header.hbs',
-            footer: './views/common/footer.hbs'
-
-        }).then(function () {
-            this.partial('./views/movies/createMovie.hbs')
-        });
-    };
-
-    const postCreateMovie = function (context) {
-        const url = `/appdata/${storage.appKey}/movies`;
-        const authorizationType = 'Kinvey';
-
-        const data = {...context.params};
-
-        requester
-            .post(url, authorizationType, data)
-            .then(helper.handler)
-            .then(() => {
-                context.redirect('#/myMovies');
-            });
-    };
-
     const getMovieDetails = async function (context) {
         helper.addHeaderInfo(context);
 
@@ -87,6 +61,31 @@ const movieController = function () {
         }).then(function () {
             this.partial('./views/movies/detailsMovie.hbs')
         });
+    };
+
+    const getCreateMovie = function (context) {
+        helper.addHeaderInfo(context);
+
+        context.loadPartials({
+            header: './views/common/header.hbs',
+            footer: './views/common/footer.hbs'
+
+        }).then(function () {
+            this.partial('./views/movies/createMovie.hbs')
+        });
+    };
+
+    const postCreateMovie = function (context) {
+        const url = `/appdata/${storage.appKey}/movies`;
+        const authorizationType = 'Kinvey';
+        const data = {...context.params};
+
+        requester
+            .post(url, authorizationType, data)
+            .then(helper.handler)
+            .then(() => {
+                context.redirect('#/myMovies');
+            });
     };
 
     const getEditMovie = async function (context) {
@@ -114,10 +113,7 @@ const movieController = function () {
         const url = `/appdata/${storage.appKey}/movies/${id}`;
         delete context.params.movieId;
         const authorizationType = 'Kinvey';
-
-        const data = {
-            ...context.params
-        };
+        const data = {...context.params};
 
         requester
             .put(url, authorizationType, data)
@@ -163,9 +159,9 @@ const movieController = function () {
     return {
         getAllMovies,
         getMyMovies,
+        getMovieDetails,
         getCreateMovie,
         postCreateMovie,
-        getMovieDetails,
         getEditMovie,
         postEditMovie,
         getDeleteMovie,
