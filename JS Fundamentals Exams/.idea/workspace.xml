@@ -91,7 +91,7 @@
         <entry file="file://$PROJECT_DIR$/Simple Calculations and Operations/Bitcoin Mining (Exam - 11.02.2018)/bitcoin-mining.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="918">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -99,8 +99,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Arrays and Matrices/Air Pollution (Exam - 11.02.2018)/air-pollution.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="768">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="100">
+              <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+              <folding>
+                <element signature="n#!!block;n#dropByRowIndex#0;n#!!block;n#solve#0" />
+                <element signature="n#!!block;n#dropByColumnIndex#0;n#!!block;n#solve#0" />
+                <element signature="n#!!block;n#increaseAll#0;n#!!block;n#solve#0" />
+                <element signature="e#184#200#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -142,6 +148,7 @@
         <option value="$PROJECT_DIR$/Arrays and Matrices/Gladiator Inventory (Exam - 24.04.2018)/gladiator-inventory.js" />
         <option value="$PROJECT_DIR$/Objects and DOM/F1 Championship (Retake Exam - 05.09.2018)/f1-championship.js" />
         <option value="$PROJECT_DIR$/Simple Calculations and Operations/bitcoin-mining.js" />
+        <option value="$PROJECT_DIR$/Simple Calculations and Operations/Bitcoin Mining (Exam - 11.02.2018)/bitcoin-mining.js" />
         <option value="$PROJECT_DIR$/Arrays and Matrices/Air Pollution (Exam - 11.02.2018)/air-pollution.js" />
       </list>
     </option>
@@ -254,22 +261,24 @@
       <workItem from="1559916764736" duration="6027000" />
       <workItem from="1559987680821" duration="14228000" />
       <workItem from="1560006265741" duration="19000" />
+      <workItem from="1565001047813" duration="5050000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42967000" />
+    <option name="totallyTimeSpent" value="48017000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24968314" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29319954" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39910814" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.64156204" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39888424" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -368,20 +377,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Simple Calculations and Operations/Bitcoin Mining (Exam - 11.02.2018)/bitcoin-mining.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Objects and DOM/Extractor (Exam Preparation - January 2019)/template.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Simple Calculations and Operations/Bitcoin Mining (Exam - 11.02.2018)/bitcoin-mining.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Arrays and Matrices/Air Pollution (Exam - 11.02.2018)/air-pollution.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="768">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        <state relative-caret-position="100">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          <folding>
+            <element signature="n#!!block;n#dropByRowIndex#0;n#!!block;n#solve#0" />
+            <element signature="n#!!block;n#dropByColumnIndex#0;n#!!block;n#solve#0" />
+            <element signature="n#!!block;n#increaseAll#0;n#!!block;n#solve#0" />
+            <element signature="e#184#200#0" />
+          </folding>
         </state>
       </provider>
     </entry>

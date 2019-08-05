@@ -1,35 +1,36 @@
-function solve(input) {
+function solve(days) {
     const bitcoinPrice = 11949.16;
-    const oneGramOfGoldPrice = 67.51;
-    let dayOfFirstPurchasedBitcoin = 0;
-    let bitcoins = 0;
+    const goldPrice = 67.51;
+
+    let boughtBitcoins = 0;
+    let day = 0;
     let money = 0;
 
-    for (let i = 0; i < input.length; i++) {
-        let goldInGrams = +input[i];
+    for (let i = 0; i < days.length; i++) {
+        let gold = days[i];
 
         if ((i + 1) % 3 === 0) {
-            goldInGrams *= 0.7;
+            gold *= 0.7;
         }
 
-        money += (goldInGrams * oneGramOfGoldPrice);
+        money += gold * goldPrice;
 
         if (money >= bitcoinPrice) {
-            if (dayOfFirstPurchasedBitcoin === 0) {
-                dayOfFirstPurchasedBitcoin = i + 1;
+            if (day === 0) {
+                day = i + 1;
             }
 
-            while (money >= bitcoinPrice) {
+            while(money >= bitcoinPrice) {
                 money -= bitcoinPrice;
-                bitcoins++
+                boughtBitcoins++;
             }
         }
     }
 
-    console.log(`Bought bitcoins: ${bitcoins}`);
+    console.log(`Bought bitcoins: ${boughtBitcoins}`);
 
-    if (dayOfFirstPurchasedBitcoin > 0) {
-        console.log(`Day of the first purchased bitcoin: ${dayOfFirstPurchasedBitcoin}`);
+    if (boughtBitcoins > 0) {
+        console.log(`Day of the first purchased bitcoin: ${day}`);
     }
 
     console.log(`Left money: ${money.toFixed(2)} lv.`);
