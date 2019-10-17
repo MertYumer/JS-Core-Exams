@@ -1,6 +1,9 @@
 const app = Sammy('#container', function () {
     this.use('Handlebars', 'hbs');
 
+    Handlebars.registerHelper("inc", function(value, options) {
+        return parseInt(value) + 1;
+    });
     //Home
     this.get('#/home', homeController.getHome);
 
@@ -12,6 +15,8 @@ const app = Sammy('#container', function () {
     this.post('#/login', userController.postLogin);
 
     this.get('#/logout', userController.postLogout);
+
+    this.get('#/profile', userController.getProfilePage);
 
     //Offer
     this.get('#/dashboard', offerController.getDashboard);
@@ -25,6 +30,8 @@ const app = Sammy('#container', function () {
 
     this.get('#/delete/:offerId', offerController.getDeleteOffer);
     this.post('#/delete/:offerId', offerController.postDeleteOffer);
+
+    this.get('#/buy', offerController.postBuyOffer);
 });
 
 (() => {

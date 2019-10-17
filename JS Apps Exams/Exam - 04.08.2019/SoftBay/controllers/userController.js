@@ -10,21 +10,26 @@ const userController = function () {
     };
 
     const postRegister = function (context) {
-        const url = `/user/${storage.appKey}`;
-        const authorizationType = 'Basic';
+        const isValid = helper.validateRegistration(context.params);
 
-        const data = {
-            username: context.params.username,
-            password: context.params.password,
-        };
+        if (isValid) {
+            const url = `/user/${storage.appKey}`;
+            const authorizationType = 'Basic';
 
-        requester
-            .post(url, authorizationType, data)
-            .then(helper.handler)
-            .then(data => {
-                storage.saveUser(data);
-                context.redirect('#/home');
-            });
+            const data = {
+                username: context.params.username,
+                password: context.params.password,
+                numberOfPurchases: 0
+            };
+
+            requester
+                .post(url, authorizationType, data)
+                .then(helper.handler)
+                .then(data => {
+                    storage.saveUser(data);
+                    context.redirect('#/home');
+                });
+        }
     };
 
     const getLogin = function (context) {
@@ -64,11 +69,24 @@ const userController = function () {
             });
     };
 
+    const getProfilePage = function (context) {
+        context.numberOfPurchases = JSON.parse(storage.getData('userInfo')).numberOfPurchases;
+        helper.addHeaderInfo(context);
+        context.loadPartials({
+            header: './views/common/header.hbs',
+            footer: './views/common/footer.hbs',
+
+        }).then(function () {
+            this.partial('./views/user/profilePage.hbs')
+        });
+    };
+
     return {
         getRegister,
         postRegister,
         getLogin,
         postLogin,
-        postLogout
+        postLogout,
+        getProfilePage
     };
 }();

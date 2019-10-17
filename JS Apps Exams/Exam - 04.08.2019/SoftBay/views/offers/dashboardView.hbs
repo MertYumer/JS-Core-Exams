@@ -13,7 +13,7 @@
     <tbody>
     {{#each offers}}
         <tr>
-            <td class="">{{@index}}</td>
+            <td class="">{{inc @index}}</td>
             <td class="">{{product}}</td>
             <td class="description">{{description}}</td>
             <td class="">{{price}}</td>
@@ -24,6 +24,8 @@
                 {{#if isCreator}}
                     <a href='#/delete/{{_id}}' class="btn-danger btn">Delete</a>
                     <a href='#/edit/{{_id}}' class="btn-info btn">Edit</a>
+                {{else}}
+                    <a href='#/buy' class="btn-warning btn">Buy</a>
                 {{/if}}
             </td>
         </tr>
